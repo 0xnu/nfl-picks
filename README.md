@@ -1,6 +1,6 @@
 ## NFL Picks
 
-NFL Match Prediction with Scores Using Historical Data (1999-Present).
+NFL match prediction with scores using historical data (1999-Present).
 
 ### Install Dependencies
 
