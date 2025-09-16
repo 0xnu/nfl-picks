@@ -15,7 +15,7 @@ uv pip install -r requirements.txt
 
 ### Run the System
 
-Click the `Run` button to run the individual cell of the [Jupyter Notebook](./notebook/nfl-pick.ipynb).
+Click the `Run` button to run the individual cell of the [Jupyter Notebook](./notebook/nfl-picks.ipynb).
 
 ### License
 
