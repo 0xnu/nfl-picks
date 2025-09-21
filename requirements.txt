@@ -1,5 +1,6 @@
 nfl-data-py
 pandas
+prettytable
 numpy
 scikit-learn
 matplotlib
