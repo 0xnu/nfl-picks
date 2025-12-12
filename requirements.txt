@@ -1,8 +1,10 @@
 nfl-data-py
+catboost
+lightgbm
+matplotlib
+numpy
 pandas
 prettytable
-numpy
 scikit-learn
-matplotlib
 seaborn
 xgboost
